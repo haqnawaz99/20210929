@@ -1,0 +1,25 @@
+* {
+  margin: 0;
+  padding: 0px;
+}
+
+.container {
+  display: flex;
+}
+
+.box {
+  width: 33%;
+  height: 200px;
+}
+
+.first {
+  background-color: red;
+}
+
+.second {
+  background-color: green;
+}
+
+.third {
+  background-color: blue;
+}
